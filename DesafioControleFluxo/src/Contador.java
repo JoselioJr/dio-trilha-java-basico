@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Contador {
 	public static void main(String[] args) {
+		//Scanner para captura dos parâmetros passados pelo usuário
 		Scanner terminal = new Scanner(System.in);
 
 		System.out.print("Digite o primeiro parâmetro: ");
